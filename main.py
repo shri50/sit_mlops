@@ -1,4 +1,6 @@
 print('Hyperparameter added')
+print('Model training started')
+print('HApPy CoDiNg!')
 
 hyp = {
     'learning_rate': 0.01,
