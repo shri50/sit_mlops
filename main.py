@@ -1,1 +1,6 @@
-print("Hello world!")
+print("hyperparameter added success!")
+
+hyp={
+    learning_rate: 0.01,
+    batch_size: 32,
+}
