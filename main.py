@@ -1,0 +1,7 @@
+print('Hyperparameter added')
+
+hyp = {
+    'learning_rate': 0.01,
+    'batch_size': 32,
+    'num_epochs': 10,
+}
